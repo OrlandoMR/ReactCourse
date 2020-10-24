@@ -1,0 +1,12 @@
+html,body{
+  color: white;
+  background-color: #082e2f;
+  font-family: sans-serif;
+}
+
+button{
+  color: white;
+  background-color: #31bed1;
+  height: 40px;
+  width : 40px; 
+}
